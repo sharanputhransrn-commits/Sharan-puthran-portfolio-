@@ -78,7 +78,7 @@ if ('IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-mot
 const form = document.getElementById('contactForm');
 const formStatus = document.getElementById('formStatus');
 
-const CONTACT_EMAIL = 'REPLACE-WITH-YOUR-EMAIL';
+const CONTACT_EMAIL = 'sharanputhransrn@gmail.com;
 
 function setError(field, message) {
   const wrapper = field.closest('.field');
