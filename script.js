@@ -741,9 +741,6 @@ h3 { font-size: clamp(1.05rem, 2vw, 1.25rem); font-weight: 600; }
 }
 
 /* ============================================
-   MOBILE NAV — must come AFTER desktop rules
-   ============================================ */
-/* ============================================
    MOBILE NAVIGATION
    ============================================ */
 @media (max-width: 860px) {
@@ -856,4 +853,4 @@ h3 { font-size: clamp(1.05rem, 2vw, 1.25rem); font-weight: 600; }
   .brand-text { display: none; }
   .hero-actions .btn { width: 100%; }
   .exp-stats { grid-template-columns: 1fr; }
-}
+    }
